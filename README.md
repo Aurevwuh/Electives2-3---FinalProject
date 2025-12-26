@@ -265,9 +265,10 @@ MIT License © 2024 - Feel free to use for educational purposes
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-**Khyle** - Game Developer & Full-Stack Engineer
+**Khyle Noelle Reyes** - Computer Engineering Student  
+**Augustien Caryd Ramos** - Computer Engineering Student
 
 ---
 
