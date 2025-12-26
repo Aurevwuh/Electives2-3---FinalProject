@@ -241,22 +241,6 @@ VITE_SUPABASE_ANON_KEY=your_anon_key
 
 ---
 
-## 🐛 Troubleshooting
-
-### "Countries without missions showing on map"
-✅ Fixed! The system now uses `getCountriesWithQuestions()` to filter playable countries.
-
-### "Images not loading"
-- Verify Supabase bucket exists: `game-images`
-- Check bucket permissions are public
-- Ensure file paths are correctly stored in database
-
-### "Authentication not working"
-- Verify Supabase credentials in `supabase.js`
-- Check email/password authentication is enabled
-- Clear browser cache and cookies
-
----
 
 ## 📄 License
 
