@@ -1,4 +1,4 @@
-# FInals - Interactive Global Spy Mission Game
+# Finals - Spy Espionage
 
 An immersive web-based educational game built with **Vue 3** and **Supabase**, where players complete cipher puzzles, solve missions across different countries, and unlock classified intelligence. Perfect for learning cybersecurity concepts and codebreaking!
 
