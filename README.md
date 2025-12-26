@@ -43,7 +43,6 @@ FinalFrontEnd/         # Main game interface for players
 │   ├── stores/        # Pinia state management
 │   └── assets/        # CSS, images, fonts
 ├── public/
-│   ├── images/        # Game assets
 │   ├── map/           # Map data
 │   └── sounds/        # Audio files
 ```
